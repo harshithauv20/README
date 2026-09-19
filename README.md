@@ -1,68 +1,72 @@
-# Hi, I'm Harshitha 👋
+# Hey, I'm Harshitha 👋
 
-I'm a **Robotics & AI Engineering student** interested in building practical solutions using Python, Computer Vision, Machine Learning, and automation.
+I'm a **Robotics Engineering student graduating in 2027**, interested in robotics, automation, computer vision, and simulation.
 
-## 🔭 Currently Working On
+I like learning by actually building things — from computer-vision projects and robot simulations to hardware and automation experiments.
 
-* **VolunteerIQ** — AI-assisted volunteer management and matching platform
-* Computer Vision and AI projects
-* Strengthening my Python and Machine Learning skills
+## 🛠️ What I Work With
 
-## 🛠️ Technologies & Tools
-
-**Programming:**
-Python,HTML
-
-**AI & Computer Vision:**
-OpenCV, Machine Learning fundamentals, YOLO
-
-**Development & Tools:**
-Git, GitHub, Google Colab, Jupyter Notebook, VS Code, Arduino IDE
-
-**Currently Exploring:**
-Generative AI, TypeScript, Web Development
-
-## 📌 Areas of Interest
-
-* Artificial Intelligence
-* Computer Vision
-* Machine Learning
-* Robotics
-* Intelligent Automation
-
-## 🚀 Featured Projects
-
-### VolunteerIQ
-
-AI-assisted platform for NGO volunteer management and volunteer-task matching.
-
-### Eyes on the Road — Lane Detection
-
-Computer vision project for detecting lane markings and identifying potential road-safety situations.
-
-### AI Traffic Light Control System
-
-Computer vision-based traffic light control using vehicle detection.
-
-### Automated Plant Watering System
-
-Arduino-based system using soil-moisture sensing to automate plant watering.
-
-## 📚 Currently Learning
+**Programming**
 
 * Python
-* Data Structures & Algorithms
-* Machine Learning
-* Computer Vision
-* Git & GitHub
-* Generative AI
 
-## 🌐 Connect With Me
+**Computer Vision**
 
-* LinkedIn
-* Medium
-* GitHub
+* OpenCV
+* YOLO
+* Edge Impulse
+
+**Robotics & Simulation**
+
+* RoboDK
+* Gazebo
+* MoveIt
+* RViz
+* ADAMS
+
+**Hardware & Automation**
+
+* ESP32-CAM
+* Arduino
+* Sensors & actuators
+
+## 🚀 Projects & Work
+
+### 🚗 RoadIQ / Apar Drishti
+
+Contributing to a computer-vision project focused on road-traffic monitoring using Python, YOLO and OpenCV.
+
+### 🚦 AI Traffic Light Control System
+
+A computer-vision project using Python and OpenCV for vehicle detection and traffic-light control.
+
+### 🌱 Automated Plant Watering System
+
+An Arduino-based automation project using soil-moisture sensing and a relay-controlled water pump.
+
+### 🤖 Robotics Simulation
+
+Hands-on work with robot simulation, visualization and motion-planning tools including RoboDK, Gazebo, MoveIt and RViz.
+
+## 🌱 Currently Learning
+
+* ROS 2
+* Robotics programming
+* Embedded systems
+* Robot perception
+* Computer vision
+
+## 🎓 Education
+
+**Robotics Engineering**
+Expected Graduation: **2027**
+
+## 🤝 Let's Connect
+
+* **LinkedIn:** [harshitha-uv](https://www.linkedin.com/in/harshitha-uv/)
+* **HackerRank:** [harshithauv49](https://www.hackerrank.com/profile/harshithauv49)
+* **Medium:** [@harshithauv2005](https://medium.com/@harshithauv2005)
 
 ---
 
-*Building, learning, and improving one project at a time.*
+*Still learning, still building, and documenting the process along the way.*
