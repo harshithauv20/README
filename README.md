@@ -22,7 +22,6 @@ I like learning by actually building things — from computer-vision projects an
 * Gazebo
 * MoveIt
 * RViz
-* ADAMS
 
 **Hardware & Automation**
 
