@@ -50,7 +50,6 @@ Hands-on work with robot simulation, visualization and motion-planning tools inc
 ## 🌱 Currently Learning
 
 * ROS 2
-* Robotics programming
 * Embedded systems
 * Robot perception
 * Computer vision
