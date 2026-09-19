@@ -4,7 +4,7 @@ I'm a Robotics Engineering student graduating in 2027, interested in robotics, a
 
 I like learning by actually building things — from computer-vision projects and robot simulations to hardware and automation experiments.
 
-## 🛠️ What I Work With
+## 🛠️ Skills & Tools
 
 **Programming**
 
@@ -29,7 +29,20 @@ I like learning by actually building things — from computer-vision projects an
 * Arduino
 * Sensors & actuators
 
-## 🚀 Projects & Work
+**Tools**
+
+* Git
+* GitHub
+
+## 🎯 Areas I'm Interested In
+
+* Robotics & Automation
+* Robot Simulation
+* Computer Vision
+* Robot Perception
+* Embedded & Hardware Systems
+
+## 🚀 Projects & Experience
 
 ### 🚗 RoadIQ / Apar Drishti
 
@@ -52,7 +65,6 @@ Hands-on work with robot simulation, visualization, and motion-planning tools in
 * ROS 2
 * Embedded systems
 * Robot perception
-* Computer vision
 
 ## 🎓 Education
 
